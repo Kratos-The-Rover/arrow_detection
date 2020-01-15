@@ -1,4 +1,4 @@
-# ball_detection
+# arrow_detection
 
 This repository contains the code used for arrow detection. 
 
